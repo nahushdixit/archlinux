@@ -1,5 +1,5 @@
 URxvt*scrollBar:  	false
-URxvt*font:		xft:Terminus:pixelsize=12
+URxvt*font:		xft:Terminus:pixelsize=14
 URxvt*background:	#000000
 URxvt*foreground: 	#d9d9d9
 URxvt*color0:		#000000
